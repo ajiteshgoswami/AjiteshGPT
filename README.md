@@ -1,4 +1,4 @@
-# HariGPT - Harikrishna's Resume Bot
+# AjiteshGPT - Ajitesh's Resume Bot
 
 ## Overview
 
@@ -13,7 +13,7 @@ This Streamlit application serves as a chatbot, providing information about Hari
 
 ## Link
 
-Resume Bot Wesbite : [harikrishnad1997-resume-bot.hf.space](https://harikrishnad1997-resume-bot.hf.space/)
+Resume Bot Wesbite : 
 
 ## Demo
 
