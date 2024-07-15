@@ -51,7 +51,7 @@ else:
 
 # Streamlit app title and disclaimer
 st.title("Ajitesh's resume bot")
-st.image("https://harikrishnad1997.github.io/images/about.jpg")
+# st.image("https://harikrishnad1997.github.io/images/about.jpg")
 with st.expander("⚠️Disclaimer"):
     st.write("""This bot is a LLM trained on GPT-3.5-turbo model to answer questions about Ajitesh's professional background and qualifications. Your responses are recorded in a database for quality assurance and improvement purposes. Please be respectful and avoid asking personal or inappropriate questions.""")
 
